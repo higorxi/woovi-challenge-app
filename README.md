@@ -1,7 +1,9 @@
 # App Woovi PIX Parcelado
 
-<img src="./src/assets/screenshots/IMG_1052.PNG" alt="Descrição da Imagem" width="300"/>
-<img src="./src/assets/screenshots/IMG_1053.PNG" alt="Descrição da Imagem" width="300"/>
+<div style="display: flex; justify-content: space-around;">
+    <img src="./src/assets/screenshots/IMG_1052.PNG" alt="Descrição da Imagem" width="300"/>
+    <img src="./src/assets/screenshots/IMG_1053.PNG" alt="Descrição da Imagem" width="300"/>
+</div>
 
 > Aplicação mobile desenvolvida para fins de estudos, criado com base no desafio de [FrontEnd Junior da Woovi](https://woovi.com/jobs/challenges/frontend-engineer/).
 
